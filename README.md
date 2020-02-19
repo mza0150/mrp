@@ -1,4 +1,4 @@
-
+#mrp.py
 MRP.py: A Parameterizer of Post-Translationally Modified Residues
 This code was developed by Patrick Sahrmann in the Goodwin research group at Auburn University. 
 
