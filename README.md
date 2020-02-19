@@ -1,7 +1,7 @@
 # MRP.py 
 ### A Parameterizer of Post-Translationally Modified Residues
 
-This program is designed to streamline the process of post-translationally modified residue parameterization.
+This program streamlines the process of post-translationally modified residue parameterization.
 MRP.py is designed to work with AmberTools and the Gaussian software package to handle molecular 
 modeling and QM calculations, respectively. AmberTools15 or higher should be used in conjuction with this program. 
 
